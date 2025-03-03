@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color:aqua
+}
+
+.section-one {
+    background-color:gray
+}
+
+.section-two {
+    background-color:aqua
+}
+
+.section-three {
+    background-color:gray
+}
+
+.section-four {
+    background-color:aqua
+}
+
+.footer {
+    background-color:gray
+}
