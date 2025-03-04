@@ -8,6 +8,7 @@ body {
     background-color:aqua;
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .section-one {
@@ -52,4 +53,18 @@ div[class*="thumb-"] {
 
 .footer {
     background-color:gray
+}
+
+.flag {
+    max-width: 30px;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.concordia {
+    max-width: 400px;
 }
